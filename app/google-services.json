@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411543045568",
+    "firebase_url": "https://easypay-618ea.firebaseio.com",
+    "project_id": "easypay-618ea",
+    "storage_bucket": "easypay-618ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411543045568:android:c268597806e284dc11b425",
+        "android_client_info": {
+          "package_name": "com.example.jaison.easy_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411543045568-1rgou9c4rksejg7rpur3ht14iis70vda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaison.easy_pay",
+            "certificate_hash": "79b9e928aa5c73779d910aa3397c30a372bd83ce"
+          }
+        },
+        {
+          "client_id": "411543045568-e8i3rpighrvf2r6g1sir3g5jfbn8stoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqvlojnMCm6rd_GbNyaE5EAtgnevhF018"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411543045568-e8i3rpighrvf2r6g1sir3g5jfbn8stoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
